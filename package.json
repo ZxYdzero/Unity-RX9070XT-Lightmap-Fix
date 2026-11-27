@@ -1,0 +1,24 @@
+{
+  "name": "com.zxydzero.lightmap-bake-fix",
+  "version": "1.0.0",
+  "displayName": "Unity Lightmap Bake Fix Tool (AMD RX 9070 XT / OpenCL)",
+  "description": "One-click Unity Editor diagnostic & fix tool for Progressive GPU OpenCL lightmap baking errors (openCLRenderBuffers.HasBakingBuffers(), 0% stuck bake on AMD RX 9070 XT / RDNA 4, RadeonPro denoiser crashes, invalid Contribute GI flags, and Shadowmask issues).",
+  "unity": "2022.3",
+  "keywords": [
+    "unity",
+    "lightmap",
+    "bake",
+    "amd",
+    "rx9070xt",
+    "rdna4",
+    "opencl",
+    "vrchat",
+    "editor-tool",
+    "gi"
+  ],
+  "author": {
+    "name": "ZxYdzero",
+    "email": "qq1317281183@163.com"
+  },
+  "license": "MIT"
+}
